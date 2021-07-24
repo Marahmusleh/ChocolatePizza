@@ -1,0 +1,197 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600;700&family=Great+Vibes&family=Satisfy&family=Yellowtail&display=swap');
+header{
+    height: 150px;
+    margin:20px;
+
+}
+body{
+    width:100%;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+ header h1{
+    font-family: 'Yellowtail', cursive;
+    font:bold;
+    font-size: 30px;
+    margin-left:23%;
+   position: absolute;
+   top:4.5%;    
+ }
+#logo h2{
+    margin-top:55px;
+    margin-left:3.5%;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 13px;
+    color:  rgb(202, 196, 196);
+
+}
+
+#logo{
+    margin-left:20%;
+    padding-top: 10px;
+}
+
+#logo img{
+float:left;
+position: absolute;
+top:5%;
+}
+#icon{
+    margin-left:65%;
+    position:absolute;
+    top:6%;
+   
+}
+#right{
+    margin-left:78%;
+    position:absolute;
+    top:6%;
+
+}
+#border {
+    background-image: url("../img/hr-img.png");
+    background-repeat: repeat;
+    width: 950px;
+    height: 15px;
+    position:absolute;
+    top:15%;
+    margin-left: 19.5%;
+  }
+#print h3 {
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    /* font-weight: 300px; */
+    font-size: 37px;
+    margin-left: 19.5%;
+}
+#print h4{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    margin-left: 19.5%;
+    color: rgb(168, 165, 165);
+    margin-top: 0.5%;
+}
+#print img{
+    margin-left:78%;
+    position:absolute;
+    
+}
+#chocopizza img{
+    margin-left: 19.5%;
+    width: 945px;
+    height: 600px;
+    margin-top: 2%;
+}
+#print h5{
+    margin-left:79%;
+    position:absolute;
+    font-family:'Patrick Hand', cursive;
+    font-size: 13px;
+    color: rgb(168, 165, 165);
+}
+#chocopizza content p{
+    margin-left:19.5%;
+    margin-right: 20%;
+    text-indent: 35px;
+    font-size: 16px;
+    color:rgb(121, 119, 119);
+    margin-top:2%;
+    line-height: 1.2;
+    text-align: justify;
+}
+#list {
+    background-image: url('../img/list-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:300px;
+    font-family: 'Patrick Hand', cursive;
+    margin-top:2%;
+    font-size: 20px;
+    background-size: 950px;
+    color: #B2735D;
+    margin-left: 19.5%;
+}
+
+section #left{
+    float:left;
+    margin-left:10%;
+    margin-top: 3.5%;
+    line-height: 1.5;
+
+}
+section #right2{
+    margin-left:30%;
+    float:left;
+    margin-top: 2.8%;
+    position:absolute;
+    line-height: 1.5;
+}
+
+/* #end{
+    margin-top:5%;
+} */
+
+#end img{
+    margin-left:19.5%;
+    margin-top: 5%;
+
+}
+#right2 ul li:nth-child(2), #right2 ul li:nth-child(3) {
+    text-decoration: line-through;
+}
+ #end h6{
+    margin-left:25%;
+    position: absolute;
+    margin-top:6%;
+    font-size: 20px;
+    color: rgb(94, 93, 93);
+    font-weight: bold;
+}
+#end p2{
+        font-size:17.5px;
+        margin-bottom: 30px;
+        color: rgb(105, 105, 105);
+        margin-left:25%;
+        position:absolute;
+        margin-top:8%;
+}
+#end button{
+    padding: 15px 25px;
+    background: #e27750;
+    color: #fff;
+    font-size: 15px;
+    margin-left: 47.5%;
+    margin-top: 5%;
+    display: inline-block;
+    position: absolute;
+}
+
+footer img {
+    margin-bottom: 3px;
+    margin-top: 7%;
+    margin-left:1%;
+
+}
+
+footer {
+    text-align: center;
+    margin-left: 55%;
+    height: 300px;
+
+}
+footer p {
+    line-height: 1.2;
+    font-size: 15px;
+    color: rgb(202, 196, 196);
+}
+#border2 {
+    background-image: url("../img/hr-img.png");
+    background-repeat: repeat;
+    width: 950px;
+    height: 15px;
+    /* position:absolute;
+    top:15%; */
+    margin-left: 19.5%;
+    margin-top: 5%;
+  }
